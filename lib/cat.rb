@@ -7,5 +7,8 @@ class Cat
   
   attr_reader :name, :mood
   
+  def mood
+    return mood
+  end
 end
 
