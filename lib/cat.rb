@@ -10,5 +10,6 @@ class Cat
   def mood
     return mood
   end
+  
 end
 
