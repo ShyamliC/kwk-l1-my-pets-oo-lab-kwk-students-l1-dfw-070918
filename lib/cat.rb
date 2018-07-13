@@ -6,4 +6,5 @@ class Cat
   end
   def initalize(mood)
     @mood=mood
+  end
 end
