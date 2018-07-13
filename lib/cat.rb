@@ -4,5 +4,3 @@ class Cat
     @cat=cat
   end
 end
-
-Cat.new("crookshanks")
