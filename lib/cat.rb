@@ -1,6 +1,7 @@
 class Cat
   # code goes here
-  def initialize(cat)
-    @cat=cat
+  attr_reader
+  def initialize(name)
+    @name = name
   end
 end
